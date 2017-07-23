@@ -1,0 +1,9 @@
+.w3-myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.bgimg {
+    background-image: url('/bg.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
